@@ -1,4 +1,4 @@
-## Mason Fox
+# Mason Fox
 
 ### About Me
 
