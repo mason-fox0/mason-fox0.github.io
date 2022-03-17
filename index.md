@@ -1,8 +1,10 @@
 # Mason Fox
 
+### [Resume](https://github.com/mason-fox0/mason-fox0.github.io/resume.pdf)
+
 ### About Me
 
-I am a nuclear engineering graduate student at the University of Tennessee, Knoxville. My research interests are reactor safety, computational modeling and simulation, thermal-hydraulics, and nuclear fuel performance modeling. You can view some highlights of my projects below.
+I am a nuclear engineering masters student at the University of Tennessee, Knoxville. My research interests are reactor safety, computational modeling and simulation, thermal-hydraulics, and nuclear fuel performance modeling. You can view some highlights of my projects below.
 
 ### Work in Progress...
 
