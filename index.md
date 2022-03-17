@@ -1,6 +1,6 @@
 # Mason Fox
 
-### [Resume](https://github.com/mason-fox0/mason-fox0.github.io/resume.pdf)
+### [Resume](https://mason-fox0.github.io/resume.pdf)
 
 ### About Me
 
