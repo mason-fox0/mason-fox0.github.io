@@ -8,7 +8,7 @@ I am a nuclear engineering masters student at the University of Tennessee, Knoxv
 
 ## Technical Presentations
 <a href="https://mason-fox0.github.io/numMethodsTurbulence.jpg"></a>
-<a href="https://mason-fox0.github.io/Numerical Methods for Turbulent Convection">Numerical Methods for Turbulent Convection</a><>
+<a href="https://mason-fox0.github.io/Numerical Methods for Turbulent Convection.pptx">Numerical Methods for Turbulent Convection</a>
 
 ## Projects
 
